@@ -1,0 +1,6 @@
+tensorflow
+opencv-python
+ring-doorbell
+tensorflow_hub
+flask
+
